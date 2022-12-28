@@ -1,6 +1,6 @@
 ### Hey 👋, I'm sjinzh ❤
 
-| <a href="https://github.com/sjinzh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sjinzh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sjinzh's github stats" /></a> | <a href="https://github.com/sjinzh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjinzh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sjinzh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sjinzh&show_icons=true&include_all_commits=true&theme=buefy" alt="sjinzh's github stats" /></a> | <a href="https://github.com/sjinzh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjinzh&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
